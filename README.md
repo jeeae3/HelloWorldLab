@@ -1,0 +1,1 @@
+### This application so far allows user to enter name in the input textbox and the button under "click me" after clicking, generates a greeting message "Hi, <name/text entered>" with the text input by user.
